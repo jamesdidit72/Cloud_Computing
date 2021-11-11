@@ -36,3 +36,10 @@
   - Building, testing, deploying, and managing applications and services through Microsoft-managed data centers (wiki, 2020).
 - Google Cloud Platform
   - Provides a series of modular cloud services including computing, data storage, data analytics and machine learning (Google Cloud, 2021).
+
+### 
+#### Entered in Git Bash as admin
+- cd ~/.ssh (go into the ssh folder)
+- nano key.pem (creates file in ssh folder, paste key contents)
+- chmod 400 key.pem (edit permissions)
+
