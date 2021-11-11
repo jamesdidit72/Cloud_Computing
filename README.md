@@ -37,9 +37,55 @@
 - Google Cloud Platform
   - Provides a series of modular cloud services including computing, data storage, data analytics and machine learning (Google Cloud, 2021).
 
-### 
+### Launch EC2 Instance
 #### Entered in Git Bash as admin
 - cd ~/.ssh (go into the ssh folder)
 - nano key.pem (creates file in ssh folder, paste key contents)
 - chmod 400 key.pem (edit permissions)
+- execute AWS command (ssh -i...)
 
+### Next Steps
+- update and upgrade
+- install nginx
+- Enable nginx
+- Check public ip globally
+- install node, correct version
+- install required dependencies
+- `app code` currently available on `localhost`
+- npm install
+- npm start
+
+
+### Step by step
+- aws EC2 instance
+- Ubuntu Server 16.04 LTS (HVM), SSD Volume Type (free tier)
+- t2-micro
+- change nothing in part 3
+- no new storage
+- add 27017 to sg
+- launch and connect into terminal with ssh key
+  
+#### Edit App
+- sudo nano ~/.bashrc
+- sudo echo 'export DB_HOST="mongodb://IP:27017/posts"' >> .bashrc
+- source ~/.bashrc
+- sudo systemctl restart nginx
+- sudo systemctl enable nginx
+
+#### Launch DB
+- sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv D68FA50FEA312927
+- echo "deb https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
+- sudo apt-get update -y
+- sudo apt-get upgrade -y
+- sudo apt-get install -y mongodb-org=3.2.20 mongodb-org-server=3.2.20 mongodb-org-shell=3.2.20 mongodb-org-mongos=3.2.20 mongodb-org-tools=3.2.20
+- cd /etc/
+- sudo nano mongod.conf OR sudo touch mongod.conf (add contents(devops_bootcamp_intro)) 
+- sudo systemctl restart mongod
+- sudo systemctl enable mongod
+- sudo systemctl status mongod
+
+#### Final Steps
+- cd in app file
+- node seeds/seed.js
+- npm install
+- npm start
