@@ -37,7 +37,7 @@
   - Individual whom particular personal data is about
   - Combining the data and the individual
 - **Controller**
-  - A controller is the person that decides how and why to cvollect and use the data
+  - A controller is the person that decides how and why to collect and use the data
   - A controller will usually be an org but can be an individual (sole trader)
   - If you are an employee acting on behalf of your employer, they are the controller
   - Must make sure that the processing of the data complies with the protection law
@@ -47,9 +47,13 @@
     - what personal data should be collected
     - which individuals to collect personal data about
     - we obtain a commerical gain or other benefitfrom the processing, exept for any payment for services from another controller
-    - we are processing the personal data as a result of a contract between us and the data subject
+    - we are processing the personal data as a result of a contract between us and the data subjects
     - the data subjects are our employees
     - we make decisions about the individuals concerned as part of or as a result of the processing
+    - we exercise professional judgement in the processing of the personal data
+    - we have direct relationships with the data subjects
+    - we have complete autonomy as to how the personal data is processed
+    - we have appointed the processors to process the personal data on our behalf
 - **Joint-Controller**
   - Are we a joint-controller?
     - we have a common objective with others regarding the provcessing

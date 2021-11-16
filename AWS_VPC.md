@@ -51,3 +51,22 @@ NACL
   - auto-assign Public IP = enable
 
 ![](images/Virtual_Private_Cloud_diagram_VPC)
+
+### nat instance for the db
+
+**no global access for db**
+
+- create ami, serach nat, linux type
+- set network to be vpc
+- choose the one with internet
+- security group needs http https, pop3, smtps
+- pair key
+
+- in instances, stop source/destination checks
+  - right click instance, networking, change resource destination
+- go to vpc to connect to route table
+- add route, target = nat instance
+  - allow internet
+
+- subnet association
+  - only db
