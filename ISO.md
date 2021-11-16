@@ -1,0 +1,83 @@
+## ISO
+- relies on the McCumber cube
+### Defintion
+- An international standard that describes the best practoces for infomation security management system (ISMS)
+- ISMS is a set of prodcedures and policies to manage the information security
+- Being certified proves that the business defined and implemented best practices
+- ISO270001 requirements are generic that can employed in all types of organisations (can be applied to any org)
+- It adopts a risk-based approach to Cyber Security
+- The enterprises are required to identify the risks
+- The enterprises have to select the appropriate controls to tackle the risks
+### Parts
+- **Part 1 (The main part)**
+  - 11 clauses that define the rerquirements
+    - 0 - 3 are mainly statements
+    - 0. Introduction
+    - 1. Scope of standard
+    - 2. Normative references
+    - 3. Terms and definitions
+    - 4. Context of the organisation
+      - Understanding the org and its context
+      - Understanding the needs and expectations of interested parties
+      - Determining the scope of the ISMS
+      - The scope shall be available as documented information
+    - 5. Leadership
+      - Leadership and commitment (should establish the policy)
+      - Policy
+      - Organisational roles, responsibilities and authorities
+    - 6. Planning
+      - General
+      - Information security risk assessment
+      - Information security risk treatment
+    - 7. Support
+      - Resources (needed for the ISO)
+      - Competence
+      - Awareness
+      - Communication
+      - documented information
+    - 8. Operation
+      - Operation planning and control
+      - Information security risk assessment
+      - Information security risk treatment
+    - 9. Performance evaluation
+      - Monitoring, measurement, analysis and evaluation
+      - Internal audit (not waiting for an external audit)
+      - Management review
+    - 10. Improvement
+      - Nonconfomity and corrective action
+      - Continual improvement
+- **Part 2 (Annex A)**
+  - A framework of 14 categories of controls (total of 114 controls)
+    - annex A.5 
+      - information security policies (2 controls) no sub
+    - annex A.6 
+      - Organisation of infomation security (7 controls) 2 sub categories
+    - Annex A.7
+      - Human resource security (6 controls) 3 subs
+    - Annex A.8
+      - Asset management (10 controls) many subs
+    - Annex A.9
+      - Access control (14 controls)
+    - Annex A.10
+      - Cryptography (2 controls)
+    -  Annex A.11
+       -  physical and environment security (15 controls)
+    -  Annex A.12
+       -  operations security (14 controls)
+    -  Annex A.13
+       -  comms security (7 controls)
+    -  Annex A.14
+       -  sys acqusition dev and mainat (13 controls)
+    -  Annex A.15
+       -  supp relat (5 controls)
+    -  Annex A.16
+       -  info security incident management (7 controls)
+    -  Annex A.17
+       -  info security aspects of business continuity management (4 controls)
+    -  Annex A.18 
+       -  Compliance (8 controls)
+
+- **Roles and Credentials**
+- Lead implementer
+- Lead Auditor
+- internal Auditor

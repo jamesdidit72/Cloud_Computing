@@ -1,0 +1,112 @@
+# GDPR
+- About
+  -  Latest version of Europes data protection law
+  -  Took efdfect in 2018
+  -  Information commisioners officer (ICO): is the uks independent body set up to upold rights
+-  Uk GDPR is slightly different to the EU GDPR
+-  UK has 5 main parts
+   -  Part 1: Prelimary information
+   -  Part 2: Gernal processing
+      -  Chapter 1: scope and def
+      -  Chaspter 2: The UK GDPR
+      -  Exemptions (manual unstructured, national security, defence processing)
+   -  Part 3: Law enforcement processing
+   -  Part 4: Intelligence service processing
+   -  Part 5: int information commmisioner
+   -  Part 6: Enforcement
+   -  Part 7: Supplement and final provision
+-  EU 
+### Terms
+- **Data protection**
+  - Data protection iis the fair and proper use of info aabout people
+  - Its about treating fairly and openly
+  - Recoginising their rights to have control over their own identity
+- **Personal data**
+  - Means info abou a particular living individual
+  - Doesnt need to be private information
+  - Data that can identify someone
+    -  From the details
+    -  By combining it with other information
+- **Individuals**
+  - Customer
+  - Client
+  - Employee
+  - Member of the public
+  - Anyone
+- **Data subject**
+  - Individual whom particular personal data is about
+  - Combining the data and the individual
+- **Controller**
+  - A controller is the person that decides how and why to cvollect and use the data
+  - A controller will usually be an org but can be an individual (sole trader)
+  - If you are an employee acting on behalf of your employer, they are the controller
+  - Must make sure that the processing of the data complies with the protection law
+  - Are we a controller? (any of the following)
+    - To collect or process the personal data
+    - what the purpose or outcome of the processing was to be
+    - what personal data should be collected
+    - which individuals to collect personal data about
+    - we obtain a commerical gain or other benefitfrom the processing, exept for any payment for services from another controller
+    - we are processing the personal data as a result of a contract between us and the data subject
+    - the data subjects are our employees
+    - we make decisions about the individuals concerned as part of or as a result of the processing
+- **Joint-Controller**
+  - Are we a joint-controller?
+    - we have a common objective with others regarding the provcessing
+    - we are processing the personal data for the same purpose as another controller
+    - we are using the same set of personal data (one db) fo rthis processing as another controller
+    - desgined this process with another controller
+    - we have common information management rules with another controller
+- **Processing**
+  - All considered as processing
+    - Collecting data
+    - recording
+    - storing
+    - using
+    - analysing
+    - combining
+    - disclosing
+    - deleting
+- **Processor**
+  - can be:
+    - a seperate person
+    - an organisation
+    - who processes data on behalf of the controller and in accordance with their instructions
+    - processors have some direct legal obligations
+    - are we a processor?
+      - we are following instructions from someone else regarding processing
+      - given the personal data by a customer/third party/ or told what to collect
+      - we dont decide:
+        - to collect personal data from individuals
+        - what personal data should be collected from individuals
+        - the lawful basis for the use of that data
+        - what purpose/s the data will be used for
+        - whether to disclose the data, or to whom
+        - how long to retain the data
+      - may make some ecisions on how data is processed, but implement these decisions under a contract with someone else
+      - not interested in the end result of the processing
+  ### Principles
+  UK P
+  - Lawfulness, fairness and transparency
+    - must identify valid grounds under the GDPR for collecting and using personal data
+    - must ensure that you dont do anything with the data in breach of any other laws
+    - must use personal data in a way that is fair. This means you must not process the data in a way that is unduly detrimental,
+  - purpose limitation
+    - be clear about your purposes for processing from the start
+    - record your purposes as part of your documentation obligations
+    - specify your purposes in your privacy info for individuals
+    - use the personal data only for a new purpose if either this is compatible with your original purpose, you get consent, or you have a clear obligation or function set out in law
+  - data minimisation
+    - ensure the personal data you are processing is:
+      - adequate - sufficient to properly forfil your stated
+  - accuracy
+    - take all reasonable steps to ensure the personal data you hold is not incorrect or misleading
+    - you may need to keep the personal data uploaded
+  - storage limitation
+    - dont keep the data longer than you require
+    - think about - and be able to justify - how long you keep personal data
+    - have a policy setting standard
+  - integrity and confidentiality (security)
+    -  process personal data and securely by means of app
+  - accountibility
+    -  requires you to take responsibility
