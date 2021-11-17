@@ -50,7 +50,7 @@ NACL
   - subnet = only one available
   - auto-assign Public IP = enable
 
-![](images/Virtual_Private_Cloud_diagram_VPC)
+![](images/Virtual_Private_Cloud_diagram_VPC.png)
 
 ### nat instance for the db
 
